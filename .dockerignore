@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache
+
+# Virtualenvs
+.venv/
+venv/
+
+# Environment & secrets
+.env
+.env_*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Tests & docs
+tests/
+docs/
