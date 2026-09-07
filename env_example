@@ -13,7 +13,7 @@ KAFKA_SASL_USERNAME=
 KAFKA_SASL_PASSWORD=
 
 # API
-SWITCH_API_HOST=https://api-switch-dev.gobiworld.com
+SWITCH_API_HOST=https://api-switch.gobiworld.com
 SWITCH_API_PUBLIC_KEY=
 SWITCH_API_PRIVATE_KEY=
 SWITCH_API_MODE=sandbox
